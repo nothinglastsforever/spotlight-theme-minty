@@ -3596,7 +3596,7 @@ details-disclosure > details {
 .logo h1 {
   margin: 0;
   font-size: 7rem;
-  color: rgb(204, 204, 204);
+  color: rgb(32, 32, 32);
   text-transform: uppercase;
   /* transition: font-size 0.3s ease-in-out; */
 }
